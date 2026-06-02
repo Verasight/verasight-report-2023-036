@@ -1,5 +1,4 @@
 {
-  "schema_version": "0.1.0",
   "report_id": "2023-036",
   "repo_name": "verasight-report-2023-036",
   "title": "AAPOR 2023 Omnibus Survey #2023-036",
@@ -18,7 +17,5 @@
   "modules": [
     "2022 Verasight National AAPOR Omnibus Survey",
     "AAPOR 2023 Omnibus Survey #2023-036"
-  ],
-  "publication_status": "ready_for_draft",
-  "reuse_status": "reference_only_pending_verasight_license_decision"
+  ]
 }
