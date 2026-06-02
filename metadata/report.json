@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.1.0",
+  "report_id": "2023-036",
+  "repo_name": "verasight-report-2023-036",
+  "title": "AAPOR 2023 Omnibus Survey #2023-036",
+  "wave_id": "2023-036",
+  "source_report_url": "https://reports.verasight.io/reports/aapor-2023-omnibus-survey-2023-036",
+  "data_library_url": "https://data.verasight.io/",
+  "field_dates": {
+    "start": "2023-05-16",
+    "end": "2023-05-17"
+  },
+  "population": "United States adults",
+  "mode": "online panel (Verasight Community)",
+  "sponsor": "Verasight",
+  "aapor_transparency": true,
+  "question_count": 42,
+  "modules": [
+    "2022 Verasight National AAPOR Omnibus Survey",
+    "AAPOR 2023 Omnibus Survey #2023-036"
+  ],
+  "publication_status": "ready_for_draft",
+  "reuse_status": "reference_only_pending_verasight_license_decision"
+}

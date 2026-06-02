@@ -1,0 +1,169 @@
+question_id,option_id,option_label,is_missing
+2022-05_q12,1,Extremely worried,false
+2022-05_q12,2,Very worried,false
+2022-05_q12,3,Somewhat worried,false
+2022-05_q12,4,Slightly worried,false
+2022-05_q12,5,Not at all worried,false
+2023-036_q1,1,Strongly oppose,false
+2023-036_q1,2,Somewhat oppose,false
+2023-036_q1,3,Somewhat favor,false
+2023-036_q1,4,Strongly favor,false
+2023-036_q10,1,Yes,false
+2023-036_q10,2,No,false
+2023-036_q11,1,q11_1,false
+2023-036_q11,2,q11_2,false
+2023-036_q11,3,q11_3,false
+2023-036_q11,4,q11_4,false
+2023-036_q11,5,q11_5,false
+2023-036_q11,6,q11_6,false
+2023-036_q11,7,q11_7,false
+2023-036_q11,8,q11_8,false
+2023-036_q12,1,Donald Trump (R),false
+2023-036_q12,2,Joe Biden (D),false
+2023-036_q13,1,Mitt Romney (R),false
+2023-036_q13,2,Barack Obama (D),false
+2023-036_q14,1,Joe Biden,false
+2023-036_q14,2,Donald Trump,false
+2023-036_q14,3,Someone else,false
+2023-036_q15,1,A great deal,false
+2023-036_q15,2,A fair amount,false
+2023-036_q15,3,Only a little,false
+2023-036_q15,4,Not at all,false
+2023-036_q16,1,A great deal,false
+2023-036_q16,2,A fair amount,false
+2023-036_q16,3,Only a little,false
+2023-036_q16,4,Not at all,false
+2023-036_q17,1,Not at all likely,false
+2023-036_q17,2,A little likely,false
+2023-036_q17,3,Somewhat likely,false
+2023-036_q17,4,Very likely,false
+2023-036_q17,5,Extremely likely,false
+2023-036_q18,1,Very satisfied,false
+2023-036_q18,2,Satisfied,false
+2023-036_q18,3,Somewhat satisfied,false
+2023-036_q18,4,Not at all satisfied,false
+2023-036_q19,1,No,false
+2023-036_q19,2,Yes,false
+2023-036_q2,1,I would definitely buy or lease an electric-only vehicle.,false
+2023-036_q2,2,I would seriously consider buying or leasing an electric-only vehicle.,false
+2023-036_q2,3,"I might consider getting an electric-only vehicle in the future, but not if I were to buy or lease a vehicle today.",false
+2023-036_q2,4,I would not consider getting an electric-only vehicle.,false
+2023-036_q20,1,Very important,false
+2023-036_q20,2,Somewhat important,false
+2023-036_q20,3,Neither important nor unimportant,false
+2023-036_q20,4,Somewhat unimportant,false
+2023-036_q20,5,Very unimportant,false
+2023-036_q21,1,Twice a year in person,false
+2023-036_q21,2,Every month via text,false
+2023-036_q21,3,Something else,false
+2023-036_q22,1,Local Groundhog,false
+2023-036_q22,2,Punxatawney Phil,false
+2023-036_q22,3,"Not sure which one, can't say",false
+2023-036_q23,1,0,false
+2023-036_q23,2,1,false
+2023-036_q23,3,2,false
+2023-036_q23,4,3,false
+2023-036_q23,5,4,false
+2023-036_q23,6,5,false
+2023-036_q23,7,6-10,false
+2023-036_q23,8,11+,false
+2023-036_q23,9,Prefer not to say,false
+2023-036_q24,1,q24_1,false
+2023-036_q24,2,q24_3,false
+2023-036_q24,3,q24_4,false
+2023-036_q24,4,q24_5,false
+2023-036_q24,5,q24_6,false
+2023-036_q24,6,q24_7,false
+2023-036_q24,7,q24_8,false
+2023-036_q24,8,q24_9,false
+2023-036_q25,1,All of the time,false
+2023-036_q25,2,Most of the time,false
+2023-036_q25,3,Some of the time,false
+2023-036_q25,4,None of the time,false
+2023-036_q26,1,Very likely,false
+2023-036_q26,2,Somewhat likely,false
+2023-036_q26,3,Somewhat unlikely,false
+2023-036_q26,4,Very unlikely,false
+2023-036_q27,1,Strongly agree,false
+2023-036_q27,2,Somewhat agree,false
+2023-036_q27,3,Neither agree or disagree,false
+2023-036_q27,4,Somewhat disagree,false
+2023-036_q27,5,Strongly disagree,false
+2023-036_q29,1,Laziness,false
+2023-036_q29,2,Break up of the family unit,false
+2023-036_q29,3,Systemic Racism,false
+2023-036_q29,4,Lack of upward mobility due to childhood issues,false
+2023-036_q3,1,In the past,false
+2023-036_q3,2,In the future,false
+2023-036_q3,3,Don’t know,false
+2023-036_q30,1,Strongly agree,false
+2023-036_q30,2,Somewhat agree,false
+2023-036_q30,3,Somewhat disagree,false
+2023-036_q30,4,Strongly disagree,false
+2023-036_q32,1,Democrat,false
+2023-036_q32,2,Republican,false
+2023-036_q32,3,Independent,false
+2023-036_q32,4,Other or none,false
+2023-036_q33,1,Not important at all,false
+2023-036_q33,2,Not very important,false
+2023-036_q33,3,Very important,false
+2023-036_q33,4,Extremely important,false
+2023-036_q34,1,Strongly agree,false
+2023-036_q34,2,Somewhat agree,false
+2023-036_q34,3,Neither agree/disagree,false
+2023-036_q34,4,Somewhat disagree,false
+2023-036_q34,5,Strongly disagree,false
+2023-036_q35,1,More excited than afraid,false
+2023-036_q35,2,More afraid than excited,false
+2023-036_q35,3,About equally [excited and afraid / afraid and excited],false
+2023-036_q35,4,Neither / I don’t think about this,false
+2023-036_q36,1,I usually feel like there is at least one candidate for elected office who shares most of my views.,false
+2023-036_q36,2,I usually feel like none of the candidates for office represent my views well.,false
+2023-036_q37,1,Yes,false
+2023-036_q37,2,No,false
+2023-036_q37,3,What’s ChatGPT?,false
+2023-036_q38,1,Very familiar,false
+2023-036_q38,2,Familiar,false
+2023-036_q38,3,Not very familiar,false
+2023-036_q38,4,Not at all familiar,false
+2023-036_q39,1,"Abolitionist Model: This model views prostitution as a form of gender-based violence. It supports the elimination of prostitution by penalizing clients and pimps, and offering protection to prostitutes.",false
+2023-036_q39,2,"Prohibitionist Model: This model sees prostitution as a violation of societal moral values. It supports the prohibition of both buying and selling sexual services, including penalties for clients, pimps, and prostitutes.",false
+2023-036_q39,3,Legalization Model: This model regards voluntary prostitution as a job like any other. It supports the recognition of labor rights and obligations for prostitutes.,false
+2023-036_q4,1,Always,false
+2023-036_q4,2,Sometimes,false
+2023-036_q4,3,Seldom,false
+2023-036_q4,4,Never,false
+2023-036_q4,5,Don’t Know,false
+2023-036_q40,1,Yes,false
+2023-036_q40,2,No,false
+2023-036_q41,1,Strongly agree,false
+2023-036_q41,2,Somewhat agree,false
+2023-036_q41,3,Neither Agree nor Disagree,false
+2023-036_q41,4,Somewhat disagree,false
+2023-036_q41,5,Strongly disagree,false
+2023-036_q42,1,"Jones Beach (Wantagh, NY)",false
+2023-036_q42,2,"Siesta Key Beach (Sarasota, FL)",false
+2023-036_q42,3,"Muscle Beach (Los Angeles, CA)",false
+2023-036_q42,4,"Atlantic City Beach (Atlantic City, NJ)",false
+2023-036_q42,5,Other,false
+2023-036_q5,1,Strongly agree,false
+2023-036_q5,2,Agree,false
+2023-036_q5,3,Neutral,false
+2023-036_q5,4,Disagree,false
+2023-036_q5,5,Strongly disagree,false
+2023-036_q6_1,1,Agree,false
+2023-036_q6_1,2,Disagree,false
+2023-036_q6_1,3,Unsure,false
+2023-036_q6_2,1,Agree,false
+2023-036_q6_2,2,Disagree,false
+2023-036_q6_2,3,Unsure,false
+2023-036_q7,1,q7_1,false
+2023-036_q7,2,q7_2,false
+2023-036_q7,3,q7_3,false
+2023-036_q7,4,q7_4,false
+2023-036_q8,1,Yes,false
+2023-036_q8,2,No,false
+2023-036_q9,1,Thin Mints,false
+2023-036_q9,2,Samoas/Caramel deLites,false
+2023-036_q9,3,Tagalongs/Peanut Butter Patties,false
+2023-036_q9,4,Trefoils,false
